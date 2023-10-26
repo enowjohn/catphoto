@@ -1,11 +1,6 @@
-body{
-    background-color: pink;
+body {
+  background-color: pink;
+  margin: 20px auto;
+  width: 100px;
 }
-.img{
-    background-color: pink;
-    border: 15px;
-    border-radius: 20px;
-}
-.main{
-    height: 20px;
-}
+
