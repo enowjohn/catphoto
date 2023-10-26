@@ -1,0 +1,11 @@
+body{
+    background-color: pink;
+}
+.img{
+    background-color: pink;
+    border: 15px;
+    border-radius: 20px;
+}
+.main{
+    height: 20px;
+}
